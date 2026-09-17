@@ -3,7 +3,7 @@
 ### 💻 Aspiring Software Developer | 🤖 AI & Web Development Enthusiast
 
 <p align="center">
-  <img src="./profile.png" width="300">
+  <img src="./dotted_portrait.png" width="300">
 </p>
 
 ---
