@@ -4,7 +4,7 @@
 <table> 
 <tr>
 <td width="38%" valign="top"> 
-<img src="./assets/dotted_portrait.png" width="100%">
+<img src="./dotted_portrait.png" width="100%">
 </td> 
 <td width="62%" valign="top">
 
