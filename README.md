@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="./dotted_portrait.png" width="300%">
+<img src="./dotted_portrait.png" width="100%">
 
 </p>
 
