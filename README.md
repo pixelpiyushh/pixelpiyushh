@@ -1,14 +1,11 @@
 ### 👋 Hi, I'm Piyush Raj
 ### 💻 Aspiring Software Developer | 🤖 AI & Web Development Enthusiast
 
-<table>
-<tr>
-<td width="38%" valign="top">
+<p align="center">
 
-<img src="./dotted_portrait.png" width="100%">
+<img src="./dotted_portrait.png" width="300%">
 
-</td>
-<td width="62%" valign="top">
+</p>
 
 ```
 Subject .............................. Piyush Raj
